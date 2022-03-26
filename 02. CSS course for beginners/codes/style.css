@@ -1,0 +1,64 @@
+
+
+	.paragraph {
+		font-size: 30px;
+		background-color: #f6f6f6;
+		border: 3px solid green ;
+		border-radius: 50px;
+		
+	}
+	#header {
+		text-align: center;
+		font-family: monospace;
+	}
+
+	ol {
+		list-style-type: none;
+	}
+
+	button {
+		background-color: #f6f6f6;
+		padding: 10px;
+		border-radius: 10px;
+	}
+
+	button:hover {
+		background-color: black;
+		color: white;
+		cursor: pointer;
+	}
+
+	.block {
+
+		
+		position: relative;
+		margin: 10px;
+		border: 2px solid black;
+	}
+
+	.clear {
+		clear: both;
+	}
+
+
+	button {
+		position: fixed;
+	}
+
+	
+
+	/* this is comment
+.relative {
+		
+		border: 3px solid black;
+		left: 400px;
+	}
+	
+
+	 */
+
+
+
+
+	
+
